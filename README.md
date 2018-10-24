@@ -1,7 +1,8 @@
-# hackathon-2018
+This is the Cloud9 Workspace for the 2018 Halloween Hackathon of Code Institute.
 
-## Team 2 hackathon main / back-up repo
-
-### "Yeap it was working 5 minutes ago"
+We do not know what we are asked to do but we will rock it.
 
 
+We got 2 words:
+
+Chilling and Goblin
